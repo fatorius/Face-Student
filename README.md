@@ -4,7 +4,7 @@
 
 **Faculdade:** Fastech
 
-
+**Aluno:** Hugo Luís Gomes de Souza
 
 **Projeto:** Sistema de cadastro e login de alunos utilizando reconhecimento facial  
 
